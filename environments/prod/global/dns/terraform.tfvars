@@ -1,0 +1,5 @@
+project        = "myproject"
+environment    = "prod"
+state_bucket   = "myproject-terraform-state-prod"
+public_domain  = "example.com"
+private_domain = "internal.example.com"

@@ -1,0 +1,5 @@
+region       = "eu-west-1"
+project      = "myproject"
+environment  = "prod"
+state_bucket = "myproject-terraform-state-prod"
+db_name      = "appdb"
